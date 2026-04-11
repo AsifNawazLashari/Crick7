@@ -1,0 +1,4 @@
+cmdtools.zip
+*.deb
+app/build/
+build/
